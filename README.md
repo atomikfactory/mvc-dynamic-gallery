@@ -1,8 +1,13 @@
 # mvc-dynamic-gallery
 
-Angular & ASP.NET Web Api dynamic photo gallery component
+Description 
+-------------------------------------------------------
 
-A vanilla javascript photo gallery plugin inspired by Google Photos.
+Angular & ASP.NET Web Api compomemt to display dynamicly photo galleries hosted on a server. A end-user can easily update the galleries with only a FTP client.
+
+For the display this demo is using this awesome project : blueimp Gallery
+
+https://github.com/blueimp/Gallery
 
 Usage
 //todo
