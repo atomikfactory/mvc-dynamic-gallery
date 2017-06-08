@@ -9,18 +9,6 @@ For the display this demo is using this awesome project : blueimp Gallery
 
 https://github.com/blueimp/Gallery
 
-Usage
-//todo
-
-Include Script
-
-//todo
-
-HTML
-
-//todo
-
-
 License
 
 MIT license.
